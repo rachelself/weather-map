@@ -1,10 +1,13 @@
-# client-template
+# Weather Map++
 
-Serves as a template for client JavaScript applications.
+An app to view 10-day weather forecasts for multiple zip codes simultaneously.
 
-It uses:
+## Weather Map++ uses the following technologies:
+* JavaScript
+* Weather Underground API
+* amCharts Library
 * Jade
 * Less
 * Grunt
 * JSHint
-* Node.js
+* Traceur
